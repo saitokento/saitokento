@@ -1,11 +1,11 @@
-# DLsite Browsing Companion
+## DLsite Browsing Companion
 
 ブラウザ拡張機能（フロントエンド）: https://github.com/saitokento/dlsite-browsing-companion
 <br>バックエンド: https://github.com/saitokento/dlsite-browsing-companion-backend
 
 DLsiteの閲覧中にAIキャラクターがコメントしてくれるブラウザ拡張機能とそのバックエンドAPIです。
 
-# 「データベース」授業課題
+## 「データベース」授業課題
 
 https://github.com/saitokento/database
 
